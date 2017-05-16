@@ -1,2 +1,2 @@
 # gScripts
-a repository for utility Google scripts
+A repository for utility Google scripts.
