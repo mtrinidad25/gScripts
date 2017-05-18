@@ -1,9 +1,11 @@
 //backs up a SS into a new SS
 
+//Initial SS declaration
 var spreadsheetID = "",
     sourceSheet = "",
     backupSheet = "";
 
+//Initial range declaration
 var copyRange = "";
 var pasteRange = "";
 
